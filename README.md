@@ -1,3 +1,4 @@
+
 # Calculadora Patito 🧮
 
 Este proyecto es una simple calculadora en Python con un menú interactivo para realizar operaciones básicas y avanzadas.
@@ -16,3 +17,4 @@ Este proyecto es una simple calculadora en Python con un menú interactivo para 
 1. Clona este repositorio o descarga los archivos.
 2. Asegúrate de tener Python instalado.
 3. Ejecuta el archivo principal:
+
